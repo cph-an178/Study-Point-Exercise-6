@@ -1,0 +1,14 @@
+{
+  "books": [
+    {
+      "title": "Harry Potter 1",
+      "author": "J.K. Rolling",
+      "id": 1
+    },
+    {
+      "title": "A Game of Thrones",
+      "author": "George R.R. Martin",
+      "id": 2
+    }
+  ]
+}
